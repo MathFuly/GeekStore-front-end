@@ -1,7 +1,7 @@
 # GeekStore
 GeekStore é um projeto de e-commerce focado na venda de roupas com estampas do mundo geek, desenvolvido para o meu último projeto integrador na Instituição de Ensino SENAC. A loja virtual possui um sistema de drops, que consiste em produtos lançados todo mês, com quantidades limitadas por peça.
 
-#Descrição
+# Descrição
 Este projeto é o Front-end da GeekStore, responsável por exibir os drops, produtos disponíveis, compras e dados do usuário.
 
 Foram utilizadas diversas tecnologias durante o desenvolvimento, mas vale destacar o React para aplicar o formato SPA (Single Page Application) e o TypeScript com Clean Code, que permite uma melhor manutenção do código, entre outros recursos.
@@ -16,7 +16,8 @@ Após configurar o ambiente, abra um terminal, navegue até a pasta do projeto e
 Após a instalação dos pacotes, digite o comando "npm run dev" no terminal para visualizar o projeto.
 Observação: É necessário configurar e iniciar a API para ver o projeto. Link da API: https://github.com/MathFuly/GeekStore-back-end.
 
-#Telas
+# Telas
+
 Home
 ![home](https://user-images.githubusercontent.com/106336702/225734606-93539f22-0f02-4d4e-9319-0e1a4cf0445c.png)
 
